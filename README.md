@@ -4,11 +4,17 @@
        width="700">
 </p>
 
+<h1 align="center">Data Analyst Freelance</h1>
+
+<p align="center">
+  <strong>Transformer les données en décisions, les analyses en opportunités.</strong>
+</p>
+
 ---
 
 ## 👋 À propos de moi
 
-Je suis **Data Analyst Freelance**, formée à la **Wild Code School**, avec un intérêt particulier pour l'analyse, la préparation et la valorisation des données.
+Je suis **Data Analyst Freelance**, formé à la **Wild Code School**, avec un intérêt particulier pour l'analyse, la préparation et la valorisation des données.
 
 Mon objectif est de transformer des données brutes en **informations claires, fiables et exploitables** afin de faciliter la prise de décision.
 
@@ -16,24 +22,29 @@ Mon objectif est de transformer des données brutes en **informations claires, f
 
 ---
 
-## 🎯 Mon approche
+# 🎯 Mon approche
 
-Une analyse de données efficace commence par une bonne compréhension du besoin.
+Une analyse de données efficace commence par une bonne compréhension du besoin métier.
 
 ### 🔎 1. Comprendre
-Identifier la problématique et les objectifs métier.
+
+Identifier la problématique, les objectifs et les besoins.
 
 ### 🧹 2. Préparer
-Nettoyer, transformer et structurer les données.
+
+Nettoyer, transformer et structurer les données afin de les rendre fiables et exploitables.
 
 ### 📊 3. Analyser
-Explorer les données et identifier les tendances, corrélations et anomalies.
+
+Explorer les données et identifier les tendances, corrélations, anomalies et indicateurs clés.
 
 ### 📈 4. Visualiser
-Transformer les résultats en graphiques et indicateurs compréhensibles.
+
+Transformer les résultats en graphiques et visualisations faciles à comprendre.
 
 ### 💡 5. Restituer
-Présenter les résultats de manière claire afin de faciliter la prise de décision.
+
+Présenter les résultats de manière claire et synthétique afin de faciliter la prise de décision.
 
 ---
 
@@ -61,7 +72,7 @@ Projet consacré à la collecte, au nettoyage et à la préparation de données 
 
 **Technologies :**
 
-`Python` `Data Cleaning` `Pandas` `CSV`
+`Python` `Pandas` `Data Cleaning` `CSV`
 
 👉 [Voir le projet](./Projets/02_Voltéo_Énergies/)
 
@@ -87,7 +98,7 @@ Projet d'analyse de données comprenant le nettoyage, l'analyse exploratoire, la
 
 Projet d'analyse de données portant sur différents indicateurs liés à la sécurité alimentaire.
 
-Le projet comprend notamment la préparation des données, l'analyse exploratoire, la visualisation
+Le projet comprend notamment la préparation des données, l'analyse exploratoire, la visualisation et la mise en place de modèles de Machine Learning.
 
 **Technologies :**
 
@@ -99,10 +110,10 @@ Le projet comprend notamment la préparation des données, l'analyse exploratoir
 
 # 🛠️ Compétences
 
-| Domaine | Technologies |
+| Domaine | Technologies / compétences |
 |---|---|
 | 🐍 Programmation | Python |
-| 📊 Analyse de données | Pandas, NumPy |
+| 📊 Analyse de données | Pandas, NumPy, Analyse exploratoire |
 | 🗄️ Bases de données | SQL |
 | 📈 Visualisation | Matplotlib, Seaborn |
 | 🤖 Machine Learning | Scikit-learn |
@@ -121,11 +132,12 @@ Le projet comprend notamment la préparation des données, l'analyse exploratoir
 Compétences développées :
 
 - Analyse et préparation des données
-- Python
+- Python et Pandas
 - SQL
-- Data Visualisation
+- Analyse exploratoire des données
+- Visualisation des données
 - Machine Learning
-- Git & GitHub
+- Git et GitHub
 - Travail en mode projet
 - Présentation et restitution des résultats
 
@@ -133,23 +145,31 @@ Compétences développées :
 
 # 💼 Data Analyst Freelance
 
-Je souhaite mettre mes compétences au service d'entreprises ayant besoin de :
+J'accompagne les entreprises dans l'exploitation de leurs données afin de les aider à mieux comprendre leur activité, identifier les tendances et faciliter la prise de décision.
 
-- 📊 comprendre leurs données
-- 🧹 nettoyer et structurer leurs données
+Je peux notamment intervenir pour :
+
+- 📊 analyser et interpréter les données
+- 🧹 nettoyer et structurer les données
 - 📈 créer des analyses et visualisations
-- 🔎 identifier des tendances et indicateurs clés
-- 💡 transformer leurs données en informations utiles à la décision
+- 🔎 identifier les tendances et indicateurs clés
+- 💡 transformer les données en informations utiles à la décision
 
 ---
 
-# 📫 Contact
+# 📄 Curriculum Vitae
+
+👉 [Consulter mon CV](./00_profil/CV.pdf)
+
+---
+
+# 📫 Me contacter
 
 **Data Analyst Freelance**
 
-📧 Email : contact49virtuelassist@gmail.com
+📧 Email : [contact49virtuelassist@gmail.com](mailto:contact49virtuelassist@gmail.com)
 
-💼 LinkedIn : https://www.linkedin.com/company/106913333/admin/dashboard/
+💼 LinkedIn : 
 
 💻 GitHub : [sabrinabaudry44-alt](https://github.com/sabrinabaudry44-alt)
 
@@ -159,4 +179,6 @@ Je souhaite mettre mes compétences au service d'entreprises ayant besoin de :
 
 N'hésitez pas à explorer mes différents projets et à découvrir ma démarche d'analyse de données.
 
-**Transformer les données en décisions, les analyses en opportunités.**
+<p align="center">
+  <strong>Transformer les données en décisions, les analyses en opportunités.</strong>
+</p>
