@@ -1,13 +1,7 @@
 <p align="center">
-  <img src="./00_profil/image/logo-analyste-de-données.png"
+  <img src="./00_profil/image/logo-data-analyst.png"
        alt="Logo Data Analyst Freelance"
        width="700">
-</p>
-
-<h1 align="center">Data Analyst Freelance</h1>
-
-<p align="center">
-  <strong>Transformer les données en décisions, les analyses en opportunités.</strong>
 </p>
 
 ---
